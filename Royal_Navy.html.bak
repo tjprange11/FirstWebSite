@@ -24,7 +24,7 @@
 					<input type="submit" value="Submit">
 			</form>
 					<br>
-			<image src="images\britishNavy.jpg" alt="British Battleships">	
+			<image src="britishNavy.jpg" alt="British Battleships">	
 		</center>	
 	</body>
 </html>

@@ -13,7 +13,7 @@
 		<h1>Hello World</h1>
 		<h3 class="boldClass">Welcome to my first <i>site</i>.</h3>
 		<p id="bigID">My name is <strong>Rick</strong>.</p>
-		<img src="images\parrot.jpg" alt="Rick wants a cracker." title="Rick wants a cracker.">
+		<img src="parrot.jpg" alt="Rick wants a cracker." title="Rick wants a cracker.">
 		</center>
 		<br>
 		<h1>Hello Mates!</h1>
